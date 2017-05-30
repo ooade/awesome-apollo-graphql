@@ -1,6 +1,6 @@
 # Awesome Apollo GraphQL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="./logo.svg" align="right" width="200">](https://dev.apollodata.com)
+[<img src="http://rawgit.com/ooade/awesome-apollo-graphql/master/logo.svg" align="right" width="200">](https://dev.apollodata.com)
 
 > A curated list of amazingly awesome things regarding Apollo GraphQL ecosystem :star2:
 
