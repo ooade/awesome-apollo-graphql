@@ -26,7 +26,7 @@
 - [GraphQL Tools](https://github.com/apollographql/graphql-tools) - :wrench: Build and mock your GraphQL.js schema using the schema language.
 - [GraphQL Subscriptions](https://github.com/apollographql/graphql-subscriptions) - :newspaper: A small module that implements GraphQL subscriptions for Node.js.
 - [Optics](http://www.apollodata.com/optics) - A Performance monitoring tool for GraphQL.
-- [Launchpad](https://launchpad.graphql.com) - A tool for building a Node.js GraphQL API right in your browser.
+- [Launchpad](https://github.com/apollographql/launchpad) - A tool for building a Node.js GraphQL API right in your browser.
 - [Apollo Client Developer Tools](http://dev.apollodata.com/core/devtools.html) - GraphQL debugging tools for Apollo Client in the Chrome developer console.
 - [Apollo Fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports middleware and afterware.
 
