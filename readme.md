@@ -28,6 +28,7 @@
 - [Optics](http://www.apollodata.com/optics) - A Performance monitoring tool for GraphQL.
 - [Launchpad](https://launchpad.graphql.com) - A tool for building a Node.js GraphQL API right in your browser.
 - [Apollo Client Developer Tools](http://dev.apollodata.com/core/devtools.html) - GraphQL debugging tools for Apollo Client in the Chrome developer console.
+- [Apollo Fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports middleware and afterware.
 
 ### Boilerplates
 - [Apollo Simple Starter](https://github.com/ooade/ApolloSimpleStarter) - Bare Minimum implementation of Apollo Server & Client with MERN.
