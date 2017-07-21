@@ -32,6 +32,7 @@
 
 ### Boilerplates
 - [Apollo Simple Starter](https://github.com/ooade/ApolloSimpleStarter) - Bare Minimum implementation of Apollo Server & Client with MERN.
+- [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) - Boilerplate for building Next.js apps with Apollo.
 
 ### Example Apps
 - [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuffs.
