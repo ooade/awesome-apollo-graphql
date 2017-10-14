@@ -29,6 +29,7 @@
 - [Launchpad](https://github.com/apollographql/launchpad) - A tool for building a Node.js GraphQL API right in your browser.
 - [Apollo Client Developer Tools](http://dev.apollodata.com/core/devtools.html) - GraphQL debugging tools for Apollo Client in the Chrome developer console.
 - [Apollo Fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports middleware and afterware.
+- [Apollo Link](https://github.com/apollographql/apollo-link) -  Interface for fetching and modifying control flow of GraphQL requests.
 
 ### Boilerplates
 - [Apollo Simple Starter](https://github.com/ooade/ApolloSimpleStarter) - Bare Minimum implementation of Apollo Server & Client with MERN.
