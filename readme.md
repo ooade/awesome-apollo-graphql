@@ -27,7 +27,7 @@
 - [GraphQL Subscriptions](https://github.com/apollographql/graphql-subscriptions) - A small module that implements GraphQL subscriptions for Node.js.
 - [Optics](http://www.apollodata.com/optics) - A Performance monitoring tool for GraphQL.
 - [Launchpad](https://github.com/apollographql/launchpad) - A tool for building a Node.js GraphQL API right in your browser.
-- [Apollo Client Developer Tools](http://dev.apollodata.com/core/devtools.html) - GraphQL debugging tools for Apollo Client in the Chrome developer console.
+- [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console.
 - [Apollo Fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports middleware and afterware.
 - [Apollo Link](https://github.com/apollographql/apollo-link) -  Interface for fetching and modifying control flow of GraphQL requests.
 
