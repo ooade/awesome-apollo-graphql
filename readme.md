@@ -30,6 +30,8 @@
 - [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console.
 - [Apollo Fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports middleware and afterware.
 - [Apollo Link](https://github.com/apollographql/apollo-link) -  Interface for fetching and modifying control flow of GraphQL requests.
+- [Apollo GraphQL](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b) - GraphQL vs. REST
+Two ways to send data over HTTP: What the difference is
 
 ### Boilerplates
 - [Apollo Simple Starter](https://github.com/ooade/ApolloSimpleStarter) - Bare Minimum implementation of Apollo Server & Client with MERN.
