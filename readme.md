@@ -10,6 +10,7 @@
 - [Community](#community)
 - [Tools](#tools)
 - [Boilerplates](#boilerplates)
+- [Articles](#articles)
 - [Example Apps](#example-apps)
 - [Tips](#tips)
 
@@ -36,11 +37,11 @@
 - [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) - Boilerplate for building Next.js apps with Apollo.
 - [Apollo Redux JWT Authentication Starter](https://github.com/MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter) - Handy boilerplate for JWT based Authentication applications.
 
-### Example Apps
-- [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuffs.
-
 ### Articles
 - [GraphQL vs REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
+
+### Example Apps
+- [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuffs.
 
 ### Tips
 Contribute some ;)
