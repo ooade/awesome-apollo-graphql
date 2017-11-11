@@ -15,7 +15,7 @@
 - [Tips](#tips)
 
 ### Community
-- [Slack](http://www.apollodata.com/#slack)
+- [Slack](https://www.apollographql.com/#slack)
 - [Github](https://github.com/apollographql)
 - [Twitter](https://twitter.com/apollographql)
 - [Medium](https://medium.com/apollo-stack)
