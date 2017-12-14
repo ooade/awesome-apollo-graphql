@@ -36,6 +36,7 @@
 - [Apollo Simple Starter](https://github.com/ooade/ApolloSimpleStarter) - Bare Minimum implementation of Apollo Server & Client with MERN.
 - [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) - Boilerplate for building Next.js apps with Apollo.
 - [Apollo Redux JWT Authentication Starter](https://github.com/MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter) - Handy boilerplate for JWT based Authentication applications.
+- [Next.js Auth With Apollo](https://github.com/ooade/next-apollo-auth) - Authentication Boilerplate with Next.js and Apollo GraphQL.
 
 ### Articles
 - [GraphQL vs REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
