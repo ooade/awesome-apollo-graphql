@@ -10,15 +10,15 @@
 - [Community](#community)
 - [Tools](#tools)
 - [Boilerplates](#boilerplates)
-- [Articles](#articles)
+- [Blogs](#blogs)
 - [Example Apps](#example-apps)
+- [Real Apps](#real-apps)
 - [Tips](#tips)
 
 ### Community
 - [Slack](https://www.apollographql.com/#slack)
 - [Github](https://github.com/apollographql)
 - [Twitter](https://twitter.com/apollographql)
-- [Medium](https://medium.com/apollo-stack)
 - [Facebook](https://www.facebook.com/apollographql)
 
 ### Tools
@@ -39,12 +39,16 @@
 - [Next.js Auth With Apollo](https://github.com/ooade/next-apollo-auth) - Authentication Boilerplate with Next.js and Apollo GraphQL.
 - [Minimal Graphql](https://github.com/ZaninAndrea/minimalGraphql) - Minimal node implementation of Apollo Client
 
-### Articles
-- [GraphQL vs REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
-- [AWS AppSync, built with Apollo](https://dev-blog.apollodata.com/aws-appsync-powered-by-apollo-df61eb706183)
+### Blogs
+- [Apollo](https://dev-blog.apollodata.com)
+- [Graphcool](https://blog.graph.cool)
 
 ### Example Apps
 - [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuffs.
+
+### Real Apps
+- [Graphcool](https://graph.cool)
+- [Scaphold](https://scaphold.io)
 
 ### Tips
 Contribute some ;)
