@@ -46,7 +46,7 @@
 
 ### Example Apps
 - [Universal React Apollo](https://github.com/WeLikeGraphQL/universal-react-apollo-example) - Universal React Apollo Example App with Webpack, Recompose, CSS Modules, and other cool stuffs.
-- [Apollo/TypeScript/Prisma/React Full-stack Example](https://github.com/KATT/shop) - An e-commerce example project with Prisma, GraphQL API Gateway, React, Apollo, Next.js, SSR, CI, and E2E testing. All TypeScript.
+- [Shop](https://github.com/KATT/shop) - An E-Commerce Example Project Built with TypeScript, Prisma, Apollo, and Next.js.
 
 ### Real Apps
 - [Graphcool](https://graph.cool)
