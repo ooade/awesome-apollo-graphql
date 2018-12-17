@@ -32,6 +32,7 @@
 - [Apollo Fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports middleware and afterware.
 - [Apollo Link](https://github.com/apollographql/apollo-link) -  Interface for fetching and modifying control flow of GraphQL requests.
 - [GraphQL Yoga](https://github.com/graphcool/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
+- [Apollo Cache Updater](https://github.com/ecerroni/apollo-cache-updater) - Helper for updating the apollo cache after a mutation in scenarios where apollo's in-place update may not be sufficient.
 
 ### Boilerplates
 - [Apollo Simple Starter](https://github.com/ooade/ApolloSimpleStarter) - Bare Minimum implementation of Apollo Server & Client with MERN.
