@@ -39,6 +39,7 @@
 - [Apollo Redux JWT Authentication Starter](https://github.com/MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter) - Handy boilerplate for JWT based Authentication applications.
 - [Next.js Auth With Apollo](https://github.com/ooade/next-apollo-auth) - Authentication Boilerplate with Next.js and Apollo GraphQL.
 - [Minimal Graphql](https://github.com/ZaninAndrea/minimalGraphql) - Minimal node implementation of Apollo Client
+- [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - Boilerplate to start you Apollo graphql server in AWS using serverless framework
 
 ### Blogs
 - [Apollo](https://dev-blog.apollodata.com)
