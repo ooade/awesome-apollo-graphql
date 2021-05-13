@@ -24,6 +24,7 @@
 ### Tools
 - [GraphQL Server](https://github.com/apollographql/graphql-server) - GraphQL server for Express, Connect, Hapi and Koa.
 - [Apollo Client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client for every server or UI framework.
+- [Apollo Elements](https://apolloelements.dev) - GraphQL web components that work in any frontend framework.
 - [GraphQL Tools](https://github.com/apollographql/graphql-tools) - Build and mock your GraphQL.js schema using the schema language.
 - [GraphQL Subscriptions](https://github.com/apollographql/graphql-subscriptions) - A small module that implements GraphQL subscriptions for Node.js.
 - [Apollo Engine](http://www.apollodata.com/optics) - A Performance monitoring, schema management, error tracking and caching tool for GraphQL.
