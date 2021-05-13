@@ -32,6 +32,7 @@
 - [Apollo Fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports middleware and afterware.
 - [Apollo Link](https://github.com/apollographql/apollo-link) -  Interface for fetching and modifying control flow of GraphQL requests.
 - [GraphQL Yoga](https://github.com/graphcool/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
+- [Apollo Opentracing](https://github.com/DanielMSchmidt/apollo-opentracing) - Apollo Opentracing allows you to integrate open source baked performance tracing to your Apollo server based on industry standards for tracing.
 
 ### Boilerplates
 - [Apollo Simple Starter](https://github.com/ooade/ApolloSimpleStarter) - Bare Minimum implementation of Apollo Server & Client with MERN.
